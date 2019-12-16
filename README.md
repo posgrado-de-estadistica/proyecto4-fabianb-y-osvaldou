@@ -1,4 +1,3 @@
-# proyecto4-fabianb-y-osvaldou
 proyecto4-fabianb-y-osvaldou created by GitHub Classroom
 
 El siguiente repositorio contiene el documento escrito y la presentación de un proyecto titulado:
