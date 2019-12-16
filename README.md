@@ -1,6 +1,6 @@
 El siguiente repositorio contiene el documento escrito y la presentación de un proyecto titulado:
  "Asociación espacial en el nivel de progreso social de los cantones de Costa Rica"
-En resumen el trabajo pretende responder la pregunta: ¿Existe asociación espacial en el nivel de progreso social de los cantones de Costa Rica? Para responder lo anterior se llevará a cabo un modelo de estadística espacial de áreas donde la variable independiente será el “índice de progreso social de los cantones”.
+En resumen el trabajo pretende responder la pregunta: ¿Existe asociación espacial en el nivel de progreso social de los cantones de Costa Rica? Para responder lo anterior se llevará a cabo un modelo de estadística espacial de áreas donde la variable dependiente será el “índice de progreso social de los cantones”.
 
 Además también se encuentra disponible el código de R realizado para cumplir el análisis.
 
